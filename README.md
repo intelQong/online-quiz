@@ -4,7 +4,7 @@ Interactive English quiz built for stall engagement at the **AIMS Study Fair 202
 
 - **Developer:** Md Mahmudul Hoque Khan
 - **Built with:** OpenAI Codex
-- **Live site:** https://fair.intelqong.link
+
 
 ## About
 
